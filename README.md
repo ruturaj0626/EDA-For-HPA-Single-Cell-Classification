@@ -1,3 +1,5 @@
+![HPA Image](HPA.jpg.png)
+
 # EDA for HPA Single Cell Classification
 
 Welcome to the "EDA for HPA Single Cell Classification" repository! 🧬🔍
