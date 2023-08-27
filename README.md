@@ -20,7 +20,7 @@ The Human Protein Atlas is a treasure trove of biological insights waiting to be
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/EDA-For-HPA-Single-Cell-Classification.git
+   git clone https://github.com/ruturaj0626/EDA-For-HPA-Single-Cell-Classification.git
    ```
 
 2. **Install Dependencies**: Navigate to the repository's directory and install any necessary dependencies by running:
